@@ -1,0 +1,12 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+p {
+  white-space: normal;
+}
